@@ -33,3 +33,25 @@ https://hub.docker.com/repository/docker/ritehist/custom-nginx/general
 ## Задание 5 
 
 Ответ на пункт 1: Запускается файл compose.yaml, потому что docker-compose.yaml является более устаревшей формой наименования файла и в приоритете выбирается compose.yaml.
+
+### Пункты 1 и 2
+
+![alt text](https://github.com/ritehist/virt-homework-3/blob/main/6.PNG?raw=true)
+
+### Пункт 3
+
+![alt text](https://github.com/ritehist/virt-homework-3/blob/main/7.PNG?raw=true)
+
+### Задеплоенный компоуз
+
+![alt text](https://github.com/ritehist/virt-homework-3/blob/main/8.PNG?raw=true)
+
+### Пункт 7 
+
+![alt text](https://github.com/ritehist/virt-homework-3/blob/main/9.PNG?raw=true)
+
+Предупреждение говорит о том, что через docker compose запущен контейнер, который не указан в файле конфигурации и предлагает его убрать через запуск команды docker compose up с флагом --remove-orphans
+
+### Скриншот файла compose.yaml
+
+![alt text](https://github.com/ritehist/virt-homework-3/blob/main/10.PNG?raw=true)
