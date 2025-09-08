@@ -25,3 +25,7 @@ https://hub.docker.com/repository/docker/ritehist/custom-nginx/general
 ### Пункт 11 (Исправление порта через правку конфигурации контейнера)
 
 ![alt text](https://github.com/ritehist/virt-homework-3/blob/main/4.PNG?raw=true)
+
+## Задание 4
+
+![alt text](https://github.com/ritehist/virt-homework-3/blob/main/5.PNG?raw=true)
