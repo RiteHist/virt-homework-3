@@ -14,9 +14,13 @@ https://hub.docker.com/repository/docker/ritehist/custom-nginx/general
 
 ![alt text](https://github.com/ritehist/virt-homework-3/blob/main/2.PNG?raw=true)
 
+Ответ по пункту 3: Потому что комбинация CTRL+C отправляет сигнал SIGINT процессу, от которого запущен контейнер.
+
 ### Пункты 7-12
 
 ![alt text](https://github.com/ritehist/virt-homework-3/blob/main/3.PNG?raw=true)
+
+Ответ по пункту 10: Мы ранее изменили порт, на котором прослушивает nginx через его файл конфигурации, но в настройках самого контейнера (в частности проброс портов) ничего не было изменено.
 
 ### Пункт 11 (Исправление порта через правку конфигурации контейнера)
 
