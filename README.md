@@ -29,3 +29,7 @@ https://hub.docker.com/repository/docker/ritehist/custom-nginx/general
 ## Задание 4
 
 ![alt text](https://github.com/ritehist/virt-homework-3/blob/main/5.PNG?raw=true)
+
+## Задание 5 
+
+Ответ на пункт 1: Запускается файл compose.yaml, потому что docker-compose.yaml является более устаревшей формой наименования файла и в приоритете выбирается compose.yaml.
